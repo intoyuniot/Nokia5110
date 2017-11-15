@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ Nokia5110   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+gotoXY  KEYWORD2
+bitmap  KEYWORD2
+progBitmap  KEYWORD2
+character  KEYWORD2
+string  KEYWORD2
+clear  KEYWORD2
+init  KEYWORD2
+write  KEYWORD2
+setContrast  KEYWORD2
+setDimensions  KEYWORD2
+invert  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

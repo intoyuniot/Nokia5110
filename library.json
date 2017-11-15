@@ -1,0 +1,17 @@
+{
+    "name": "Nokia5110",
+    "version": "1.0.0",
+    "keywords": "Nokia5110",
+    "description": "Nokia5110 LCD屏（PCD8544 驱动芯片）驱动库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/Nokia5110.git"
+    },
+
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
